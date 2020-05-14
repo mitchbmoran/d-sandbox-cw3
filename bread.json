@@ -1,0 +1,101 @@
+{
+    "results": [
+        {
+            "id": 500345,
+            "title": "Easy Homemade Wheat Bread",
+            "readyInMinutes": 50,
+            "servings": 10,
+            "sourceUrl": "http://minimalistbaker.com/easy-homemade-wheat-bread/",
+            "openLicense": 0,
+            "image": "Easy-Homemade-Wheat-Bread-500345.jpg"
+        },
+        {
+            "id": 475072,
+            "title": "Spinach-Artichoke French Bread Pizza {Saturdays with Rachael Ray}",
+            "readyInMinutes": 30,
+            "servings": 4,
+            "sourceUrl": "http://www.tasteandtellblog.com/saturdays-with-rachael-ray-spinach-artichoke-french-bread-pizza/",
+            "openLicense": 0,
+            "image": "Spinach-Artichoke-French-Bread-Pizza-{Saturdays-with-Rachael-Ray}-475072.jpg"
+        },
+        {
+            "id": 559430,
+            "title": "Steak Fry Bread Tacos",
+            "readyInMinutes": 50,
+            "servings": 6,
+            "sourceUrl": "http://www.jocooks.com/main-courses/beef-main-courses/steak-fry-bread-tacos/",
+            "openLicense": 0,
+            "image": "Steak-Fry-Bread-Tacos-559430.jpg"
+        },
+        {
+            "id": 830610,
+            "title": "Homemade Rye Bread",
+            "readyInMinutes": 55,
+            "servings": 8,
+            "sourceUrl": "http://whatjewwannaeat.com/homemade-rye-bread/",
+            "openLicense": 0,
+            "image": "homemade-rye-bread-830610.jpg"
+        },
+        {
+            "id": 698345,
+            "title": "Hearty Grain Bread",
+            "readyInMinutes": 240,
+            "servings": 16,
+            "sourceUrl": "http://www.eatingwell.com/recipes/hearty_grain_bread.html",
+            "openLicense": 0,
+            "image": "hearty-grain-bread-698345.jpg"
+        },
+        {
+            "id": 22120,
+            "title": "Roasted Sweet Pepper Focaccia Bread",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "sourceUrl": "http://www.food52.com/recipes/6578_roasted_sweet_pepper_focaccia_bread",
+            "openLicense": 0,
+            "image": "roasted_sweet_pepper_focaccia_bread-22120.jpg"
+        },
+        {
+            "id": 1012172,
+            "title": "Rosemary Bread (Macaroni Grill Copycat)",
+            "readyInMinutes": 45,
+            "servings": 12,
+            "sourceUrl": "https://www.julieseatsandtreats.com/rosemary-bread-macaroni-grill-copycat/",
+            "openLicense": 0,
+            "image": "rosemary-bread-macaroni-grill-copycat-1012172.jpg"
+        },
+        {
+            "id": 697951,
+            "title": "Herbed Potato Bread",
+            "readyInMinutes": 210,
+            "servings": 16,
+            "sourceUrl": "http://www.eatingwell.com/recipes/herbed_potato_bread.html",
+            "openLicense": 0,
+            "image": "herbed-potato-bread-697951.jpg"
+        },
+        {
+            "id": 518631,
+            "title": "Irish Soda Bread",
+            "readyInMinutes": 45,
+            "servings": 8,
+            "sourceUrl": "http://www.cupcakeproject.com/2014/02/irish-soda-bread.html",
+            "openLicense": 0,
+            "image": "Irish-Soda-Bread-518631.jpg"
+        },
+        {
+            "id": 835385,
+            "title": "No Knead Skillet Olive Bread",
+            "readyInMinutes": 120,
+            "servings": 10,
+            "sourceUrl": "http://diethood.com/no-knead-skillet-olive-bread/",
+            "openLicense": 0,
+            "image": "no-knead-skillet-olive-bread-835385.jpg"
+        }
+    ],
+    "baseUri": "https://spoonacular.com/recipeImages/",
+    "offset": 0,
+    "number": 10,
+    "totalResults": 2613,
+    "processingTimeMs": 314,
+    "expires": 1589633641255,
+    "isStale": false
+}
